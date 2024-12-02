@@ -42,6 +42,7 @@ please refer to the [Installation Guide][installationguide] which can be found i
 at `docs/InstallationGuide.html`. 
 
 ## Build
+## By Mudassir Alam
 
 To create the latest development build for your platform from this source repository:
 
